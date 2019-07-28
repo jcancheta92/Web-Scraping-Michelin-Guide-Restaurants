@@ -5,10 +5,11 @@ The Michelin Guide is a book that is published by the tire company, Michelin. Th
 
 The star ratings are defined as detailed by the International Culinary Center:
 
-One star: The restaurant is considered very good in its category but is limited in some way. This restaurant has a quality menu and prepares cuisine to a consistently high standard, but it may lack a unique element that would bring people back over and over again.
-Two stars: The restaurant has excellent cuisine delivered in a unique way. This restaurant has something exceptional to offer and is worth a detour to visit while traveling.
-Three stars: The restaurant has exceptional cuisine and is worth a special trip just to visit. Rather than being a stop on the way to a destination, this restaurant is the destination. This restaurant serves distinct dishes that are executed to perfection.
+- One star: The restaurant is considered very good in its category but is limited in some way. This restaurant has a quality menu and prepares cuisine to a consistently high standard, but it may lack a unique element that would bring people back over and over again.
+- Two stars: The restaurant has excellent cuisine delivered in a unique way. This restaurant has something exceptional to offer and is worth a detour to visit while traveling.
+- Three stars: The restaurant has exceptional cuisine and is worth a special trip just to visit. Rather than being a stop on the way to a destination, this restaurant is the destination. This restaurant serves distinct dishes that are executed to perfection.
+
 Also, there are two other ratings within the Michelin Guide. 'Bib Gourmand' and 'The Plate MICHELIN'.
 
-Bib Gourmand: Exceptionally good food at moderate prices
-The Plate MICHELIN: Fresh ingredients, carefully prepared: a good meal
+- Bib Gourmand: Exceptionally good food at moderate prices
+- The Plate MICHELIN: Fresh ingredients, carefully prepared: a good meal
