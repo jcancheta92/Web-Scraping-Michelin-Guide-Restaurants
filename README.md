@@ -15,4 +15,5 @@ Also, there are two other ratings within the Michelin Guide. 'Bib Gourmand' and 
 - The Plate MICHELIN: Fresh ingredients, carefully prepared: a good meal
 
 
-* [Web Scraping Michelin Guide Restaurants](https://github.com/jcancheta92/Web-Scraping-Michelin-Guide-Restaurants/blob/master/README.md)
+
+[Web Scraping Michelin Guide Restaurants](https://github.com/jcancheta92/Web-Scraping-Michelin-Guide-Restaurants/blob/master/Web%20Scraping%20Michelin%20Guide%20Restaurants.ipynb)
